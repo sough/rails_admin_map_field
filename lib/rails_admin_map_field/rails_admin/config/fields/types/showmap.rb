@@ -13,7 +13,7 @@ module RailsAdmin::Config::Fields::Types
     end
 
     register_instance_option(:partial) do
-      :form_show_map
+      :show_map
     end
 
     # Google Maps API Key - optional
